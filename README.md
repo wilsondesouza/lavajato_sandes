@@ -1,16 +1,22 @@
-# lavajato_sandes
+# <img src="assets/icon.png" width="30" height="30"/></a> Lava-Jato Sandes 
 
-A new Flutter project.
+## 💻 Resumo
+### Aplicativo em Flutter para Android
 
-## Getting Started
+Aplicação para cadastro simples de clientes do estabelecimento e posterior consulta destes clientes.
+Programa dividido em três páginas, sendo a HomePage um canal de acesso para as páginas de Registro e Consulta. No caso desses duas últimas, a página de Consulta atua como dependente da página de Registro para poder receber e utilizar os dados registrados, formando assim um laço de herança. Não houve a necessidade de encapsulamento. E por último mas não menos importante, foi implementando métodos para manter os dados registrados mesmo com o reinício do aplicativo
 
-This project is a starting point for a Flutter application.
+### ✔ Downloads
 
-A few resources to get you started if this is your first Flutter project:
+[Lava-Jato](https://www.mediafire.com/file/rmyohay3ra4rai9/Lava-Jato.apk/file)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 Documentação
+-[Dart](https://dart.dev/guides)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-[Flutter](https://docs.flutter.dev/)
+
+-[URL Launcher](https://pub.dev/packages/url_launcher)
+
+-[Provider](https://pub.dev/packages/provider)
+
+-[Shared Preferences](https://pub.dev/packages/shared_preferences)
